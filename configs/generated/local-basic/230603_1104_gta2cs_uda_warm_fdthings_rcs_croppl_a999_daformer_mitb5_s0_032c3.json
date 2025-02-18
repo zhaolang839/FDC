@@ -1,0 +1,6 @@
+{
+    "_base_": "../../daformer/gta2cs_uda_warm_fdthings_rcs_croppl_a999_daformer_mitb5_s0.py",
+    "name": "230603_1104_gta2cs_uda_warm_fdthings_rcs_croppl_a999_daformer_mitb5_s0_032c3",
+    "work_dir": "work_dirs/local-basic/230603_1104_gta2cs_uda_warm_fdthings_rcs_croppl_a999_daformer_mitb5_s0_032c3",
+    "git_rev": "6d87ab857665f3c5a4b481c1da3fb5e227792830"
+}
